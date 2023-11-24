@@ -1,3 +1,5 @@
 I am Other.md
-So I can edit but how do you link?
-
+ Took a look at AI: [a16z AI canon](https://a16z.com/ai-canon/)
+ [https://huyenchip.com/2023/04/11/llm-engineering.html](Building LLM applications for production)
+ 
+ 
